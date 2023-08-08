@@ -1,2 +1,3 @@
-REPO LINK:-https://github.com/AaqibBashirMir/properties
-HOSTED LINK:-
+REPO LINK:-https://github.com/AaqibBashirMir/properties <br>
+HOSTED LINK:-https://aaqibbashirmir.github.io/properties/
+
